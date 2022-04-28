@@ -1,0 +1,14 @@
+      icao24  callsign origin_country  time_position  last_contact  ...  sensors  geo_altitude   squawk    spi  position_source
+0     a665ae  IFL511    United States     1651106574    1651106574  ...  No Data      11711.94  No Data  False                0
+1     ab1644  UAL447    United States     1651106498    1651106498  ...  No Data      10942.32  No Data  False                0
+2     a2e5ec  SKW3765   United States     1651106573    1651106573  ...  No Data       6720.84  No Data  False                0
+3     aa56da  UAL2142   United States     1651106574    1651106574  ...  No Data      11254.74  No Data  False                0
+4     ae1fa8  72153     United States     1651106572    1651106572  ...  No Data       1036.32     1200  False                0
+...      ...       ...            ...            ...           ...  ...      ...           ...      ...    ...              ...
+3618  a9c380  RPA3464   United States     1651106574    1651106574  ...  No Data       1874.52     5757  False                0
+3619  a05dbc  UAL2237   United States     1651106573    1651106573  ...  No Data      10378.44  No Data  False                0
+3620  a09a01  N138ME    United States     1651106472    1651106472  ...  No Data       No Data  No Data  False                0
+3621  a41b89  DAL653    United States     1651106574    1651106574  ...  No Data       10553.7  No Data  False                0
+3622  a79528  N588RS    United States     1651106574    1651106574  ...  No Data      10035.54  No Data  False                0
+
+[3623 rows x 17 columns]
